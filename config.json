@@ -1,0 +1,10 @@
+{
+    "twitch": {
+        "token_endpoint": "https://id.twitch.tv/oauth2/token",
+        "username": "<chatBotUsername>",
+        "client_id":"<clientID>",
+        "client_secret":"<clientSecret>",
+        "authorization_code":"<AuthCode>",
+        "channel": "<channel_to_connect_to>"
+    }
+}
