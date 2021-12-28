@@ -1,5 +1,7 @@
 # Twitch-Chat-Bot
 
+A Chat Bot application for Twitch Channel Chats. 
+
 ## Pre-requisites
 
 To run this application node.js and npm are required to be installed.
