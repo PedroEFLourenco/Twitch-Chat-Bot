@@ -1,6 +1,7 @@
 # Twitch-Chat-Bot
 
 A Chat Bot application for Twitch Channel Chats. 
+Referenced in this [Medium Article](https://medium.com/codex/creating-a-twitch-chat-bot-ca368321b7f7).
 
 ## Pre-requisites
 
